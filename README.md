@@ -6,7 +6,7 @@ INSTRUCTIONS (from LEARN GoMyCode)
   
 Tip: Make sure you change the <br> tag accordingly
  The HTML CODE:
-
+"
 <div style="border:solid 1px black;max-width:100vw">
 
  <h1 class="title red">Your name here</h1>
@@ -25,7 +25,7 @@ Tip: Make sure you change the <br> tag accordingly
 
  <source src="myVideo.mp4" type="video/mp4" >
 
-</video>
+</video>"
 
 # Getting Started with Create React App
 
